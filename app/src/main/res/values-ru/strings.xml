@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Привет, Космос!</string>
+    <string name="hellomoon_play">Играть</string>
+    <string name="hellomoon_pause">Пауза</string>
+    <string name="hellomoon_stop">Стоп</string>
+    <string name="hellomoon_description">Он сказал "Поехали" и махнул рукой!</string>
+</resources>
